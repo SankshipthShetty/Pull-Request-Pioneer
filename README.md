@@ -48,14 +48,12 @@ Now that you've successfully switched to your new branch it's time to CODE!!!
 <hr>
 
 # SELECT YOUR PROGRAMMING LANGUAGE AND MOVE TO ITS FOLDER
-``bash
+```bash
 cd FOLDER_NAME
-``
-<br>
-<br>
+```
 Replace FOLDER_NAME with the name of the programming languages among the below:
-<br>
-<br>Example: cd C++ / cd PYTHON
+<br><br>
+Example: cd C++ / cd PYTHON
 
 <hr>
 <img width="688" alt="LANGUAGES" src="https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/44f145af-7c1d-48b0-8cba-5d758f387b6c">
@@ -64,7 +62,6 @@ Replace FOLDER_NAME with the name of the programming languages among the below:
 # START CODING!!!
 
 NOTE: YOU CAN CONTRIBUTE IN TWO WAYS:
-
 1. YOU CAN SELECT ANY PROBLEM FROM CODECHEF/LEETCODE OR ANY OTHER CODING PLATFORMS (IF YOU ARE SELECTING THIS CONTINUE FROM STEP 3).
    
 2. YOU CAN SELECT ANY PROBLEMS FROM THE GIVEN LIST OF PROBLEMS BELOW (IF YOU ARE SELECTING THIS CONTINUE FROM STEP 1).
