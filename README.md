@@ -67,7 +67,9 @@ NOTE: YOU CAN CONTRIBUTE IN TWO WAYS:
 2. YOU CAN SELECT ANY PROBLEMS FROM THE GIVEN LIST OF PROBLEMS BELOW (IF YOU ARE SELECTING THIS CONTINUE FROM STEP 1).
 <hr>
 
-1. Click on the below link for the program questions/problem statements
+1. Click <a href="https://drive.google.com/drive/folders/1qWT3ZtS4S2H5glDeQAGi9jv44xnh1B05?usp=sharing">PROGRAMS/PROBLEM STATMENTS</a> for the program questions/problem statements
+
+
 
 2. Select any problem statement from the list and make sure that the problem statement you have selected has not yet been uploaded to the program folder if it is uploaded select a different one.
 
@@ -102,8 +104,6 @@ Replace 'USER_NAME' with your GitHub username
 Congratulations you have successfully contributed to this repository!
 
 ![anime-congrats (1)](https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/09c83394-b8b6-430a-b33f-ac795dc841f4)
-
-
 
 
 # THANK YOU FOR YOUR CONTRIBUTION!
