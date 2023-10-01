@@ -1,5 +1,5 @@
 # Hacktoberfest23
-<h3>A beginner-friendly repository for contributing to Open-source.</h3>
+<h3>A beginner-friendly repository for Hacktoberfest.</h3>
 
 ![anime-computer (2)](https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/427af176-c341-4866-84c1-049c07d81758)
 
