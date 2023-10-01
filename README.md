@@ -17,7 +17,7 @@ Once you've forked the repository, follow the below steps to clone the repositor
 1. Copy the below link
    
 ```bash
-https://github.com/YOUR_USERNAME/Hacktoberfest23.git
+git clone https://github.com/YOUR_USERNAME/Hacktoberfest23.git
 ```
 Replace 'YOUR_USERNAME' with your GitHub username.
 
@@ -26,11 +26,9 @@ Replace 'YOUR_USERNAME' with your GitHub username.
 3. Copy the below command to change the directory.
 
 ```bash
-cd FOLDER_NAME
+cd Hacktoberfest23
 ```
-Replace the 'FOLDER_NAME' with the programming language that you wish to contribute to.
 
-Example: cd C++ / cd PYTHON
 <hr>
    
 # CREATE A NEW BRANCH
@@ -47,6 +45,20 @@ git checkout USER_NAME
 Replace USER_NAME with your GitHub username
 
 Now that you've successfully switched to your new branch it's time to CODE!!!
+<hr>
+
+# SELECT YOUR PROGRAMMING LANGUAGE AND MOVE TO ITS FOLDER
+``bash
+cd FOLDER_NAME
+``
+<br>
+<br>
+Replace FOLDER_NAME with the name of the programming languages among the below:
+<br>
+<br>Example: cd C++ / cd PYTHON
+
+<hr>
+<img width="688" alt="LANGUAGES" src="https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/44f145af-7c1d-48b0-8cba-5d758f387b6c">
 <hr>
 
 # START CODING!!!
