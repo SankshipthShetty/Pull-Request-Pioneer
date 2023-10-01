@@ -73,7 +73,7 @@ NOTE: YOU CAN CONTRIBUTE IN TWO WAYS:
 
 2. Select any problem statement from the list and make sure that the problem statement you have selected has not yet been uploaded to the program folder if it is uploaded select a different one.
 
-3. Create a file with the program extension and START CODING THE PROBLEM.
+3. Create a file with the PROGRAM/PROBLEM NAME same as in the link/same as in the website(if you're solving any coding platform problems) with the appropriate extension(.c for C/.cpp for Cplusplus) and START CODING THE PROBLEM.
 
 4. After you are done with coding the problem copy and paste the below command to your terminal
 ```bash
