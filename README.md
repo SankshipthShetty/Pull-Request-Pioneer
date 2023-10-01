@@ -77,11 +77,22 @@ NOTE: YOU CAN CONTRIBUTE IN TWO WAYS:
 
 3. Create a file with the PROGRAM/PROBLEM NAME same as in the link/same as in the website(if you're solving any coding platform problems) with the appropriate extension(.c for C/.cpp for Cplusplus) and START CODING THE PROBLEM.
 
-4. After you are done with coding the problem copy and paste the below command to your terminal
+4. To create a file copy and paste the below command in terminal.
+```bash
+echo "" > filename.extension
+```
+Replace the "filename" with the name of PROGRAM/PROBLEM specified in the list or the coding platform.<br>
+<br>Replace the "extension" with specific extension of your programs:
+c for C/cpp for C++/py for PYTHON/java for JAVA/js for JAVASCRIPT/cs for C#/go for GO
+
+5. Code the Program/Problem
+``Example:echo "" > AddTwoNumbers.cpp``
+
+6. After you are done with coding the problem copy and paste the below command to your terminal
 ```bash
 git add .
 ```
-5. To save the changes to the local repo copy and paste the below command to your terminal
+7. To save the changes to the local repo copy and paste the below command to your terminal
 ```bash
 git commit -m "I YOUR_NAME made a contribution!"
 ```
