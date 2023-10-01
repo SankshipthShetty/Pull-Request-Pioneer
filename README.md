@@ -1,15 +1,16 @@
 # Hacktoberfest23
 <h3>A beginner-friendly repository for Hacktoberfest.</h3>
 
-![anime-computer (2)](https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/427af176-c341-4866-84c1-049c07d81758)
+![anime-computer (2)](https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/63c5a85b-3933-4a26-9d7a-70228a5c93de)
 
 
 # FORK THE REPOSITORY 
 <h3>Fork this Repository using the fork button at the top right corner.</h3>
 <hr>
-<img width="1065" alt="FORK" src="https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/bd261788-5dbf-4147-bbac-4371c2384be4">
+<img width="1065" alt="FORK" src="https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/684d4e13-f4d2-4022-b9ad-1d770cfb5aae">
+
 <hr>
-<img width="1062" alt="FORK1" src="https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/c7d1ff8a-2c4d-45b2-8983-2ed3cb825bfc">
+<img width="1062" alt="FORK1" src="https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/8941cf93-c805-4c13-b39c-8031808c8bc1">
 <hr>
 
 # SET UP LOCALLY
@@ -56,7 +57,8 @@ Replace FOLDER_NAME with the name of the programming languages among the below:
 Example: cd C++ / cd PYTHON
 
 <hr>
-<img width="688" alt="LANGUAGES" src="https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/44f145af-7c1d-48b0-8cba-5d758f387b6c">
+<img width="688" alt="LANGUAGES" src="https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/78f34f55-32e8-4b86-a300-03b658d621a6">
+
 <hr>
 
 # START CODING!!!
@@ -103,7 +105,8 @@ Replace 'USER_NAME' with your GitHub username
 # CONGRATULATIONS!!
 Congratulations you have successfully contributed to this repository!
 
-![anime-congrats (1)](https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/09c83394-b8b6-430a-b33f-ac795dc841f4)
+![anime-congrats (1)](https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/c826eb2c-2d5a-4e29-9cec-0e2f673cc696)
+
 
 
 # THANK YOU FOR YOUR CONTRIBUTION!
