@@ -83,10 +83,11 @@ echo "" > filename.extension
 ```
 Replace the "filename" with the name of PROGRAM/PROBLEM specified in the list or the coding platform.<br>
 <br>Replace the "extension" with specific extension of your programs:
-c for C/cpp for C++/py for PYTHON/java for JAVA/js for JAVASCRIPT/cs for C#/go for GO
+c for C/cpp for C++/py for PYTHON/java for JAVA/js for JAVASCRIPT/cs for C#/go for GO<br>
+``Example:echo "" > AddTwoNumbers.cpp``
 
 5. Code the Program/Problem
-``Example:echo "" > AddTwoNumbers.cpp``
+
 
 6. After you are done with coding the problem copy and paste the below command to your terminal
 ```bash
