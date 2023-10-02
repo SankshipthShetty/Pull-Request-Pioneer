@@ -111,8 +111,16 @@ Replace 'USER_NAME' with your GitHub username
 
 ## CREATE A PULL REQUEST
 1. Go to the forked repository in your GitHub account
+
 2. Click on Contribute and you must see the green Open Pull Request Button enabled click on it.
+<hr>
+<img width="960" alt="OPEN PR" src="https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/94499f10-7623-49a7-a07b-76110e878540">
+<hr>
+
 3. Click Create Pull request
+<hr>
+<img width="960" alt="CREATE PR" src="https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/36d71401-f789-4bd0-a4d7-63db530819da">
+<hr>
 
 ## CONGRATULATIONS!!
 Congratulations you have successfully contributed to this repository!
