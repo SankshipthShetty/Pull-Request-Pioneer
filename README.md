@@ -1,7 +1,7 @@
 # Hacktoberfest23
 <h3>A beginner-friendly repository for Hacktoberfest.</h3>
 
-![anime-computer (2)](https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/63c5a85b-3933-4a26-9d7a-70228a5c93de)
+![anime-computer](https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/63c5a85b-3933-4a26-9d7a-70228a5c93de)
 
 
 ## FORK THE REPOSITORY 
@@ -125,7 +125,7 @@ Replace 'USER_NAME' with your GitHub username
 ## CONGRATULATIONS!!
 Congratulations you have successfully contributed to this repository!
 
-![anime-congrats (1)](https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/c826eb2c-2d5a-4e29-9cec-0e2f673cc696)
+![anime-congrats](https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/c826eb2c-2d5a-4e29-9cec-0e2f673cc696)
 
 
 
