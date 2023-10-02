@@ -111,7 +111,7 @@ Replace 'USER_NAME' with your GitHub username
 
 ## CREATE A PULL REQUEST
 1. Go to the forked repository in your GitHub account
-2. Click on Contribute and you must see the green Open Pull Request Button enabled
+2. Click on Contribute and you must see the green Open Pull Request Button enabled click on it.
 3. Click Create Pull request
 
 ## CONGRATULATIONS!!
