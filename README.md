@@ -1,5 +1,8 @@
-# Hacktoberfest23
-<h3>A beginner-friendly repository for Hacktoberfest.</h3>
+# PULL REQUEST PIONEER
+
+[Disclaimer: This repository does not count for hactoberfest23 contributions]
+
+<h3>A beginner-friendly repository on how to make a pull request.</h3>
 
 ![anime-computer](https://github.com/SankshipthShetty/Hacktoberfest23/assets/99337968/63c5a85b-3933-4a26-9d7a-70228a5c93de)
 
