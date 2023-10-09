@@ -1,6 +1,6 @@
 # PULL REQUEST PIONEER
 
-[Disclaimer: This repository does not count for hactoberfest23 contributions]
+[Disclaimer: This repository does not count for hacktoberfest23 contributions]
 
 <h3>A beginner-friendly repository on how to make a pull request.</h3>
 
