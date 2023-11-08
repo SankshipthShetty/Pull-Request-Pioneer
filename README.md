@@ -30,7 +30,7 @@ Replace 'YOUR_USERNAME' with your GitHub username.
 3. Copy the below command to change the directory.
 
 ```bash
-cd Hacktoberfest23
+cd Pull-Request-Pioneer
 ```
 
 <hr>
